@@ -1,0 +1,27 @@
+ h2{
+        font-size: 50px;
+        background-color:aquamarine;
+        color:rgb(126, 146, 146)
+    }
+    .nombreDeLaClase{
+
+    }
+    #nombreDelId{
+
+    }
+    .titulo{
+        font-size: 100px;
+        background-color: rgb(50, 124, 124);
+        color:rgb(231, 236, 236)
+
+    }
+    p{
+        font-size: 50px;
+        background-color: rgb(50, 124, 124);
+        color:rgb(231, 236, 236)
+    }
+    #parrafo1{
+        font-size: 100px;
+        background-color: rgb(50, 124, 124);
+        color:rgb(231, 236, 236)
+    }
